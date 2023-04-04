@@ -1,0 +1,16 @@
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.exe
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.deps.json
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.runtimeconfig.json
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.runtimeconfig.dev.json
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.dll
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\ref\project_1.dll
+C:\Users\YUHAN\source\repos\sln_5\project_1\bin\Debug\net5.0\project_1.pdb
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.csproj.AssemblyReference.cache
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.AssemblyInfoInputs.cache
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.AssemblyInfo.cs
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.dll
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\ref\project_1.dll
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.pdb
+C:\Users\YUHAN\source\repos\sln_5\project_1\obj\Debug\net5.0\project_1.genruntimeconfig.cache
