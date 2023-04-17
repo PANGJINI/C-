@@ -1,0 +1,7 @@
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\bin\Debug\project_2.exe.config
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\bin\Debug\project_2.exe
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\bin\Debug\project_2.pdb
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\obj\Debug\project_2.csproj.AssemblyReference.cache
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\obj\Debug\project_2.csproj.CoreCompileInputs.cache
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\obj\Debug\project_2.exe
+C:\Users\pangj\Desktop\전공\3-1학기\C#\sln_self\project_2\obj\Debug\project_2.pdb
