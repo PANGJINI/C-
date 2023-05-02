@@ -1,0 +1,14 @@
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.exe
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.deps.json
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.runtimeconfig.json
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.runtimeconfig.dev.json
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.dll
+D:\Work_B\9th\sln_9\project_3\bin\Debug\netcoreapp3.1\project_3.pdb
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.csproj.AssemblyReference.cache
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.AssemblyInfoInputs.cache
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.AssemblyInfo.cs
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.csproj.CoreCompileInputs.cache
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.dll
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.pdb
+D:\Work_B\9th\sln_9\project_3\obj\Debug\netcoreapp3.1\project_3.genruntimeconfig.cache
