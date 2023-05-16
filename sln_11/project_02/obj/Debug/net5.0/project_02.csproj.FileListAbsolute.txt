@@ -1,0 +1,16 @@
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.exe
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.deps.json
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.runtimeconfig.json
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.runtimeconfig.dev.json
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.dll
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\ref\project_02.dll
+D:\Work_B\11th\sln_11\project_02\bin\Debug\net5.0\project_02.pdb
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.csproj.AssemblyReference.cache
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.AssemblyInfoInputs.cache
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.AssemblyInfo.cs
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.csproj.CoreCompileInputs.cache
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.dll
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\ref\project_02.dll
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.pdb
+D:\Work_B\11th\sln_11\project_02\obj\Debug\net5.0\project_02.genruntimeconfig.cache
