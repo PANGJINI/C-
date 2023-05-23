@@ -1,0 +1,16 @@
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.exe
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.deps.json
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.runtimeconfig.json
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.runtimeconfig.dev.json
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.dll
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\ref\Boxes.dll
+D:\Work_B\11th\Boxes\Boxes\bin\Debug\net5.0\Boxes.pdb
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.csproj.AssemblyReference.cache
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.AssemblyInfoInputs.cache
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.AssemblyInfo.cs
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.csproj.CoreCompileInputs.cache
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.dll
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\ref\Boxes.dll
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.pdb
+D:\Work_B\11th\Boxes\Boxes\obj\Debug\net5.0\Boxes.genruntimeconfig.cache
